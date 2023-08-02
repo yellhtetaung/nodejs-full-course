@@ -2,10 +2,17 @@
   "name": "nodejs-full-course",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
   "repository": "git@github.com:yellhtetaung/nodejs-full-course.git",
   "author": "yellhtetaung <yairhtet248.yha@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
