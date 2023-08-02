@@ -10,7 +10,8 @@
   "author": "yellhtetaung <yairhtet248.yha@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "date-fns": "^2.30.0"
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
