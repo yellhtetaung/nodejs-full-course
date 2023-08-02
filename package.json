@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-full-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yellhtetaung/nodejs-full-course.git",
+  "author": "yellhtetaung <yairhtet248.yha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
