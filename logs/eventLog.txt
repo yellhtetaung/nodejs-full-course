@@ -1,3 +1,0 @@
-2023-08-02	22:32:32	750c53ec-8fc6-4844-8c47-0dd6fb0b600e	Log event emitted!2023-08-02	22:35:31
-ffdc0166-2095-456f-a5fa-3fc6dba34df1
-Log event emitted!2023-08-02	22:35:53	1b461289-4bd6-4f79-87f5-8c54967845cc	Log event emitted!

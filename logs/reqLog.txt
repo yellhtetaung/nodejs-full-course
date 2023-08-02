@@ -1,0 +1,5 @@
+2023-08-02	23:50:07	2cc6140d-2723-49f0-909d-c0c60ea6c5eb	/	GET
+2023-08-02	23:50:07	b82d1f47-d966-4c34-82ea-bb6af6c37296	/css/style.css	GET
+2023-08-02	23:50:14	cacc840b-e111-456f-a97b-55004f2aaac6	/new-page	GET
+2023-08-02	23:50:14	db1b839c-0b52-4ed9-8dcf-054e902d279f	/css/style.css	GET
+2023-08-02	23:50:14	2b43b5e0-d7b8-4025-a5a9-0f3e6fde66f3	/img/img1.jpg	GET

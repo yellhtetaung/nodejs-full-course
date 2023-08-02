@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "repository": "git@github.com:yellhtetaung/nodejs-full-course.git",
   "author": "yellhtetaung <yairhtet248.yha@gmail.com>",
