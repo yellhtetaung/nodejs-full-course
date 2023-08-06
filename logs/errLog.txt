@@ -1,0 +1,9 @@
+2023-08-06	21:54:44	8a97d6d2-3e7d-4b53-afc3-4cb293add4e2	Error: Not allowed by CORS
+2023-08-06	22:01:52	adc685e7-a7f1-4fc8-8ee8-d7556787128c	Error: Not allowed by CORS
+2023-08-06	22:02:03	66dfbe09-2be6-49cc-9914-e4a578d127a1	Error: Not allowed by CORS
+2023-08-06	22:02:18	8e83f22c-7f30-48e5-b23b-cce36f6c4197	Error: Not allowed by CORS
+2023-08-06	22:03:37	9277a7c4-4625-4e5b-88a5-078310ca19db	TypeError: req.accepted is not a function
+2023-08-06	22:03:39	ac5c8b19-8478-41ef-bd78-7700195b5624	TypeError: req.accepted is not a function
+2023-08-06	22:03:39	94bafe20-743d-42d6-aed3-1704124108dd	TypeError: req.accepted is not a function
+2023-08-06	22:03:39	8633814b-0d59-47e2-92c6-8f6a61e7a612	TypeError: req.accepted is not a function
+2023-08-06	22:03:59	49d42a13-11f4-4892-8d2d-8ec6d3a6f5b9	TypeError: req.accepted is not a function

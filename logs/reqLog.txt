@@ -1,5 +1,32 @@
-2023-08-02	23:50:07	2cc6140d-2723-49f0-909d-c0c60ea6c5eb	/	GET
-2023-08-02	23:50:07	b82d1f47-d966-4c34-82ea-bb6af6c37296	/css/style.css	GET
-2023-08-02	23:50:14	cacc840b-e111-456f-a97b-55004f2aaac6	/new-page	GET
-2023-08-02	23:50:14	db1b839c-0b52-4ed9-8dcf-054e902d279f	/css/style.css	GET
-2023-08-02	23:50:14	2b43b5e0-d7b8-4025-a5a9-0f3e6fde66f3	/img/img1.jpg	GET
+2023-08-06	20:39:55	9e43b887-3c6c-46fe-b51e-fa079d6df135	GET	undefined	/
+2023-08-06	20:39:55	586ac55f-7142-4d2f-b95a-d67ee4f85ecc	GET	undefined	/css/style.css
+2023-08-06	20:43:42	635d775d-7d41-4aed-a4cd-32d386f4501d	GET	undefined	/
+2023-08-06	20:43:42	345a5e28-d3bf-4419-8516-c3a5238d546d	GET	undefined	/css/style.css
+2023-08-06	20:45:38	a8b214cf-69a0-4214-82fc-1ad6b8ac6623	GET	undefined	/
+2023-08-06	20:45:38	d4984731-7fc9-48d1-8634-ae7042c828ad	GET	undefined	/css/style.css
+2023-08-06	21:50:04	c52d8ff8-88cb-4481-96a5-a7a3fd588756	GET	undefined	/
+2023-08-06	21:51:25	268c0625-d827-4c28-84be-b23463ad477d	GET	undefined	/
+2023-08-06	21:51:30	b09e5de3-c41e-4035-80f6-c67960bfdb82	GET	undefined	/
+2023-08-06	21:51:31	491b3162-2ac0-4300-8d63-847303102e0f	GET	undefined	/
+2023-08-06	21:51:31	6cff5c60-58ab-487d-9e41-7051ce590176	GET	undefined	/
+2023-08-06	21:51:31	cad679be-d361-420c-82a1-e9629dc48e15	GET	undefined	/
+2023-08-06	21:52:18	c61a2ac4-1707-4226-8665-61e128ecdf3d	GET	undefined	/
+2023-08-06	21:54:44	098475ca-9721-4ee6-8b29-86ef5586be39	GET	undefined	/
+2023-08-06	22:01:52	04e5fb77-c1b5-4e0c-9f88-1eadfb5efb5c	GET	undefined	/
+2023-08-06	22:02:03	d47d3a70-e12b-4dc5-932f-4c09f761108d	GET	undefined	/dave
+2023-08-06	22:02:18	f68923f7-c3e3-4983-965c-e9891a053f5b	GET	undefined	/dave
+2023-08-06	22:03:37	f3e4912e-d185-40d5-bcc7-f5d1b8d0ed26	GET	undefined	/dave
+2023-08-06	22:03:39	f82fda49-2bb7-40e3-bb34-05f669102714	GET	undefined	/dave
+2023-08-06	22:03:39	712807b4-e6fd-482a-8af2-fbc127321831	GET	undefined	/dave
+2023-08-06	22:03:39	f2b82ee6-21fd-4bd6-9f1b-482b81b14333	GET	undefined	/dave
+2023-08-06	22:03:53	f90c4638-6fb5-4d49-850d-fad4107d1cd2	GET	undefined	/
+2023-08-06	22:03:53	090ef7c2-66f9-4514-a325-2ff16b531db0	GET	undefined	/css/style.css
+2023-08-06	22:03:55	a4eb2307-d81b-411a-89c3-64adb59c39fa	GET	undefined	/
+2023-08-06	22:03:55	9fb33cdd-d3b2-4d28-96a1-742a3942b46c	GET	undefined	/css/style.css
+2023-08-06	22:03:59	638e497a-7122-46ca-bb1b-f49526cdb78c	GET	undefined	/dave
+2023-08-06	22:04:45	e9349a71-a356-4c36-9e30-1bf091030a2c	GET	undefined	/dave
+2023-08-06	22:04:45	b91653c4-a925-4758-a1ab-8e35c2631491	GET	undefined	/css/style.css
+2023-08-06	22:04:49	a0f5aaa7-8be6-40e6-ae21-de5c5a775431	GET	undefined	/dave
+2023-08-06	22:04:49	a58c9844-acfc-4fdf-8e71-83473adb53a4	GET	undefined	/css/style.css
+2023-08-06	22:04:51	549568b9-5fd3-4c9c-a8dd-eb9d82cc77ec	GET	undefined	/
+2023-08-06	22:04:51	0c2c2b20-fc5d-4798-9276-3b2528cee384	GET	undefined	/css/style.css
