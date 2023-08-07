@@ -7,3 +7,6 @@
 2023-08-06	22:03:39	94bafe20-743d-42d6-aed3-1704124108dd	TypeError: req.accepted is not a function
 2023-08-06	22:03:39	8633814b-0d59-47e2-92c6-8f6a61e7a612	TypeError: req.accepted is not a function
 2023-08-06	22:03:59	49d42a13-11f4-4892-8d2d-8ec6d3a6f5b9	TypeError: req.accepted is not a function
+2023-08-07	11:58:10	225a593b-3651-4e27-ac4b-9caa57a18147	Error: ENOENT: no such file or directory, stat '/Users/zen/Development/Tutorial/Nodejs/views/subdir/index.html'
+2023-08-07	11:58:11	ee05f729-0d3d-4d2a-a741-7f20b3395b21	Error: ENOENT: no such file or directory, stat '/Users/zen/Development/Tutorial/Nodejs/views/subdir/index.html'
+2023-08-07	14:14:02	685a22a9-c678-4b1e-99d7-bd92eb539a74	SyntaxError: Expected property name or '}' in JSON at position 4
