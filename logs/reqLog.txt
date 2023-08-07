@@ -83,3 +83,13 @@
 2023-08-07	14:14:02	5cd05b89-4e10-4be3-bdc5-09432979c87e	POST	undefined	/employees
 2023-08-07	14:14:28	e55165ae-62ea-45ff-9df1-27c345dc3e17	POST	undefined	/employees
 2023-08-07	14:14:38	b6cb9f36-0cc6-4286-a983-aff5e801688e	GET	undefined	/employees/1
+2023-08-07	20:58:17	717c6318-74f9-4e28-a2ad-71d210127317	GET	undefined	/employees
+2023-08-07	20:58:43	5afb243b-c036-4f94-8717-47b2ccd1361d	POST	undefined	/employees
+2023-08-07	20:58:57	516395f1-5642-4b67-91e9-770eacd696f0	POST	undefined	/employees
+2023-08-07	20:59:26	6425e663-8bb6-4f52-ac67-2d9960913a76	POST	undefined	/employees
+2023-08-07	21:00:25	f1f33fc2-6440-404e-b8aa-a4b5e8bf4344	POST	undefined	/employees
+2023-08-07	21:00:44	474a243b-0cd8-4376-90fd-87e443f04ed7	POST	undefined	/employees
+2023-08-07	21:26:27	096bbf94-cb03-4ca4-b1c3-fc07b2899d5a	GET	undefined	/employees
+2023-08-07	21:26:44	c589a921-5a67-4a02-81d7-25327e806974	GET	undefined	/employees/1
+2023-08-07	21:26:51	0505c7a9-f4b2-49ad-b7f9-8f80a60623a2	GET	undefined	/employees/2
+2023-08-07	21:26:55	f8b38f9b-5b63-41aa-9ccf-986bc8a16b92	GET	undefined	/employees/1
